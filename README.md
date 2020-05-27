@@ -1,2 +1,2 @@
 # devang-pers-web
-Devang's interactive resume.
+This is my interactive resume. Enjoy!
